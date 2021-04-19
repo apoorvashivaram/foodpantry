@@ -1,0 +1,57 @@
+Codebook for foodpantry.csv dataset
+
+subject_number: Uniquely identified subject number of family unit (1-220) using pre-numbered shopping carts.
+signs_condition: Were signs displayed in the food pantry? if yes, identified as "up", if no, identified as "no signs".
+signs_up: Five days during which the data were collected. When signs were not displayed, identified as "no signs 1" and "no signs 2". When signs were displayed, identified as "signs up 1", "signs up 2", and "signs up 3".
+type_signs_acad_rel: Type of sign displayed ("academically-relevant" or "non-academically-relevant"). Nested within "up" condition from the "signs_condition" variable.
+signs: Four types of signs used - "number", "colors & shapes", "one word answers", "pronouncements". Number (signs that asked questions about number-related concepts such as counting), color & shape (signs that asked questions about colors and shapes), one-word answers (signs that asked questions that typically had a one-word response) or pronouncements (broad statements proclaiming that reading and learning was important to prepare children for school). The first two signs (number and colors & shapes) were nested within "academically-relevant" signs in the "type_signs_acad_rel" variable. The last two signs (one word answers and pronouncements) were nested within the "non-academically-relevant" signs in the "type_signs_acad_rel" variable. These themes of the signs (number, color & shape, one-word answers, pronouncements) were a within-subject variable – that is, all families saw all four signs. These signs were counterbalanced across the different aisles on the three different days of the signs-up condition.
+aisle: Aisle in the food pantry where the observation took place (dry goods, freezer, bread, produce).
+conv_initiate: Person who initiated the conversation (child, parent, sibling, volunteer, child and parent, child and volunteer, parent and volunteer).
+turns: Number of conversational turns within a family unit. This counts the number of verbal and non-verbal back-and-forths between members of the family. Coded in ranges: 0, 1, 2, 3-5, 6-9, 10-15, 16-20, 20+. Collapsed into 3 bins for analysis: 0-5, 6-15, 16+.
+valence: Affective quality of the conversation within a family unit. Coded as ranging from very negative, negative, neutral, positive, or very positive, or a combination of those five codes.
+product_points: Did anyone in the family point to the product mentioned on the sign? 1 = yes; 0 = no
+product_names: Did anyone in the family name the product mentioned on the sign? 1 = yes; 0 = no
+product_asks_q: Did anyone in the family ask a question about the product mentioned on the sign? 1 = yes; 0 = no
+product_describes_features: Did anyone in the family describe any feature of the product mentioned on the sign? 1 = yes; 0 = no
+product_puts_in_cart: Did anyone in the family put the product that was mentioned on the sign into their cart? 1 = yes; 0 = no
+reference_points: Did anyone in the family refer to the sign by pointing at it? 1 = yes; 0 = no
+reference_q1: Did anyone in the family refer to the sign by asking the first question listed on it? 1 = yes; 0 = no
+reference_q2: Did anyone in the family refer to the sign by asking the second question listed on it? 1 = yes; 0 = no
+reference_elaborates: Did anyone in the family refer to the sign by elaborating on either the first or the second question listed on it? 1 = yes; 0 = no
+number_uses_number: Did anyone in the family use a number in their conversation? 1 = yes; 0 = no 
+number_elicits_number: Did anyone in the family elicit a number word from the target child during their conversation? 1 = yes; 0 = no 
+number_counts_no_point: Did anyone in the family count numbers without pointing during their conversation? 1 = yes; 0 = no 
+number_counts_with_point: Did anyone in the family count numbers with pointing during their conversation? 1 = yes; 0 = no 
+number_total: Total score obtained by calculating the responses for all the number-related variables. This score was obtained by adding "number_uses_number", "number_elicits_number", and "number_counts". Range: 0-3.
+color_points: Did anyone in the family point to one or more colors during their conversation? 1 = yes; 0 = no 
+color_uses_word: Did anyone in the family use one or more color words during their conversation? 1 = yes; 0 = no 
+color_elicits_word: Did anyone in the family elicit one or more colors from the target child during their conversation? 1 = yes; 0 = no 
+shape_points: Did anyone in the family point to one or more shapes during their conversation? 1 = yes; 0 = no 
+shape_uses_word: Did anyone in the family use one or more shape words during their conversation? 1 = yes; 0 = no 
+shape_elicits_word: Did anyone in the family elicit one or more shapes from the target child during their conversation? 1 = yes; 0 = no 
+color_shape_total: Total score obtained by adding "color_shape_points", "color_shape_uses", and "color_shape_elicits". Range: 0-3.
+num_col_shape_talk: Total score obtained by adding "number_total" and "color_shape_total". Possible range: 0-6. 
+one_word_gives_answer: Did anyone in the family give an answer to the one-word answer questions during their conversation? 1 = yes; 0 = no 
+one_word_elicits: Did anyone in the family elicit an answer to the one-word answer questions during their conversation? 1 = yes; 0 = no 
+one_word_elaborates: Did anyone in the family elaborate on an answer to the one-word answer questions during their conversation? 1 = yes; 0 = no 
+number_adults: Number of adults in the family unit. Range: 0-4.
+adult1gender: Observed gender by the coder of the primary adult in the family (male, female) 
+adult2gender: Observed gender by the coder of the second adult in the family (male, female) (if applicable)
+adult3gender: Observed gender by the coder of the third adult in the family (male, female) (if applicable)
+adult4gender: Observed gender by the coder of the fourth adult in the family (male, female) (if applicable)
+number_children: Number of children in the family unit. Range: 0-4.
+child1gender: Observed gender by the coder of the primary child in the family (male, female) 
+child2gender: Observed gender by the coder of the second child in the family (male, female) (if applicable)
+child3gender: Observed gender by the coder of the third child in the family (male, female) (if applicable)
+child4gender: Observed gender by the coder of the fourth child in the family (male, female) (if applicable)
+target_child_age: Coder estimated age of the target child (1-10 years)
+other_children_ages: Coder estimated ages of the other children in the family who were not the target child.
+re: Coder observed race/ethnicity of the family (Asian, Black, Latinx, White, Multiracial, Unknown)(As observed by the coder)
+language_spoken: What language was the family speaking during the observation? (As observed by the coder)
+observ_length: What was the length of the observation for each family? 0, 1, 2, 3, 4, or 5+ minutes
+coder: observer who coded the caregiver-child interaction
+
+
+
+Notes:
+Dataset collected via an observational study from a food pantry located in a suburb of a major metropolitan city in the United States in the Summer of 2019.

@@ -1,0 +1,586 @@
+subject_number,signs_condition,signs_up,type_signs_acad_rel,signs,aisle,conv_initiate,turns,valence,product_points,product_names,product_asks_q,product_describes_features,product_puts_in_cart,reference_points,reference_q1,reference_q2,reference_elaborates,number_uses_number,number_elicits_number,number_counts_no_point,number_counts_with_point,number_total,color_points,color_uses_word,color_elicits_word,shape_points,shape_uses_word,shape_elicits_word,color_shape_total,num_col_shape_talk,one_word_gives_answer,one_word_elicits,one_word_elaborates,number_adults,adult1gender,adult2gender,adult3gender,adult4gender,number_children,child1gender,child2gender,child3gender,child4gender,target_child_age,other_children_ages,re,language_spoken,observ_length,coder
+1,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,f,NA,NA,10,NA,latinx,spanish,3,rj
+1,no signs,no signs 1,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,9,NA,asian,english,1,le
+1,no signs,no signs 1,NA,NA,bread,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,2,f,m,NA,NA,8,NA,latinx,spanish,2,yc
+1,no signs,no signs 1,NA,NA,produce,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,NA,NA,latinx,spanish,3,as
+2,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,10,NA,white,english,1,rj
+2,no signs,no signs 1,NA,NA,freezer,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,10,NA,white,english,2,le
+2,no signs,no signs 1,NA,NA,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,7,NA,white,english,2,as
+3,no signs,no signs 1,NA,NA,freezer,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,m,NA,NA,6,NA,latinx,english,1,le
+3,no signs,no signs 1,NA,NA,bread,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,10,NA,latinx,spanish,2,yc
+4,no signs,no signs 1,NA,NA,dry goods,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,8,NA,latinx,english and spanish,3,rj
+4,no signs,no signs 1,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,1,f,NA,NA,NA,8,NA,latinx,spanish,2,le
+4,no signs,no signs 1,NA,NA,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,6,NA,latinx,spanish,NA,yc
+4,no signs,no signs 1,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,spanish,4,as
+6,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,5,NA,latinx,english,3,rj
+6,no signs,no signs 1,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,7,NA,latinx,english,NA,le
+6,no signs,no signs 1,NA,NA,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,5,NA,latinx,spanish,NA,yc
+6,no signs,no signs 1,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,4,NA,latinx,spanish,NA,as
+7,no signs,no signs 1,NA,NA,dry goods,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,2,f,f,NA,NA,10,NA,latinx,spanish,4,rj
+7,no signs,no signs 1,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,2,f,NA,NA,NA,5,11+,latinx,NA,2,le
+7,no signs,no signs 1,NA,NA,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,2,f,f,NA,NA,10,NA,latinx,english,2,yc
+7,no signs,no signs 1,NA,NA,produce,NA,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,2,f,f,NA,NA,7,3,latinx,spanish,4,as
+8,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,black,english,1,rj
+8,no signs,no signs 1,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,7,NA,black,english,2,le
+8,no signs,no signs 1,NA,NA,produce,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,4,NA,black,english,2,as
+9,no signs,no signs 1,NA,NA,freezer,NA,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,f,f,f,NA,8,NA,latinx,english,3,le
+9,no signs,no signs 1,NA,NA,produce,child,6-15,positive,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,2,0,0,0,2,f,f,NA,NA,3,f,f,f,NA,10,"1, 8",latinx,spanish,3,as
+10,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,10,NA,multiracial,english,2,rj
+11,no signs,no signs 1,NA,NA,dry goods,parent,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,8,NA,black,english,3,rj
+11,no signs,no signs 1,NA,NA,freezer,NA,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,m,f,NA,NA,1,f,NA,NA,NA,8,NA,black,english,1,le
+11,no signs,no signs 1,NA,NA,bread,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,7,NA,black,english,1,yc
+11,no signs,no signs 1,NA,NA,produce,NA,6-15,very positive,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,2,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,6,NA,black,english,4,as
+12,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,4,NA,latinx,spanish,4,rj
+12,no signs,no signs 1,NA,NA,freezer,child,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,english,2,le
+12,no signs,no signs 1,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,4,NA,latinx,english,2,yc
+12,no signs,no signs 1,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,spanish,3,as
+13,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,english,4,rj
+13,no signs,no signs 1,NA,NA,produce,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,2,NA,NA,2,as
+14,no signs,no signs 1,NA,NA,dry goods,parent,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,7,NA,latinx,spanish,2,rj
+14,no signs,no signs 1,NA,NA,freezer,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,1,m,NA,NA,NA,7,NA,latinx,spanish,1,le
+14,no signs,no signs 1,NA,NA,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,5,NA,latinx,spanish,1,yc
+14,no signs,no signs 1,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,4,NA,latinx,spanish,NA,as
+15,no signs,no signs 1,NA,NA,dry goods,parent,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,4,m,f,m,m,5,NA,latinx,english and spanish,4,rj
+15,no signs,no signs 1,NA,NA,freezer,parent,0-5,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,NA,m,m,m,f,5,NA,latinx,english,1,le
+15,no signs,no signs 1,NA,NA,bread,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,4,f,m,m,m,5,NA,latinx,spanish,1,yc
+15,no signs,no signs 1,NA,NA,produce,child,16+,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,NA,m,m,m,f,NA,n/a,latinx,spanish,2,as
+16,no signs,no signs 1,NA,NA,dry goods,parent,16+,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,f,NA,NA,8,NA,latinx,english and spanish,4,rj
+16,no signs,no signs 1,NA,NA,bread,child,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,f,NA,NA,8,NA,latinx,spanish,1,yc
+16,no signs,no signs 1,NA,NA,freezer,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,f,f,NA,NA,8,NA,latinx,english,1,le
+16,no signs,no signs 1,NA,NA,produce,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,f,NA,NA,7,1,latinx,spanish,2,as
+17,no signs,no signs 1,NA,NA,dry goods,parent,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,4,NA,black,english,4,rj
+17,no signs,no signs 1,NA,NA,freezer,child,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,5,NA,black,english,2,le
+17,no signs,no signs 1,NA,NA,bread,child,16+,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,5,NA,black,english,2,yc
+17,no signs,no signs 1,NA,NA,produce,parent,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,3,NA,black,english,3,as
+18,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,10,NA,latinx,english,1,rj
+18,no signs,no signs 1,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,9,NA,latinx,spanish,3,as
+20,no signs,no signs 1,NA,NA,dry goods,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,m,m,NA,8,NA,latinx,spanish,4,rj
+20,no signs,no signs 1,NA,NA,freezer,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,2,0,0,0,2,f,f,NA,NA,3,m,m,m,NA,10,NA,latinx,english,2,le
+20,no signs,no signs 1,NA,NA,bread,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,m,m,NA,7,NA,latinx,english and spanish,2,yc
+20,no signs,no signs 1,NA,NA,produce,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,m,m,NA,7,NA,latinx,spanish,4,as
+21,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,8,NA,multiracial,english and spanish,4,rj
+21,no signs,no signs 1,NA,NA,freezer,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,m,f,NA,NA,1,m,NA,NA,NA,9,NA,latinx,english,NA,le
+21,no signs,no signs 1,NA,NA,bread,child,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,7,NA,NA,NA,NA,yc
+21,no signs,no signs 1,NA,NA,produce,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,5,NA,latinx,spanish,1,as
+22,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,m,NA,NA,3,NA,white,english,2,rj
+22,no signs,no signs 1,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,m,NA,NA,3,NA,white,english,2,le
+22,no signs,no signs 1,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,m,NA,NA,3,NA,white,english,2,yc
+22,no signs,no signs 1,NA,NA,produce,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,m,NA,NA,1,3,white,english,4,as
+23,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,f,NA,NA,7,NA,black,english,1,rj
+23,no signs,no signs 1,NA,NA,freezer,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,NA,NA,black,english,2,le
+23,no signs,no signs 1,NA,NA,bread,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,f,NA,NA,6,NA,black,english,1,yc
+23,no signs,no signs 1,NA,NA,produce,child,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,f,NA,NA,NA,NA,black,english,NA,as
+24,no signs,no signs 1,NA,NA,dry goods,parent,0-5,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,white,english,2,rj
+24,no signs,no signs 1,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,8,NA,white,english,2,le
+24,no signs,no signs 1,NA,NA,bread,child,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,white,english,NA,yc
+24,no signs,no signs 1,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,white,english,3,as
+25,no signs,no signs 1,NA,NA,freezer,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,6,NA,latinx,english,1,le
+25,no signs,no signs 1,NA,NA,bread,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,spanish,3,yc
+25,no signs,no signs 1,NA,NA,produce,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,NA,3,as
+28,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,m,NA,NA,6,NA,latinx,english and spanish,3,rj
+28,no signs,no signs 1,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,2,m,NA,NA,NA,5,NA,latinx,spanish,1,le
+28,no signs,no signs 1,NA,NA,bread,parent,0-5,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,m,NA,NA,5,NA,latinx,spanish,1,yc
+28,no signs,no signs 1,NA,NA,produce,parent,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,m,NA,NA,3,4,latinx,spanish,3,as
+30,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,6,NA,latinx,english,4,rj
+31,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,10,NA,latinx,spanish,2,rj
+32,no signs,no signs 1,NA,NA,dry goods,parent,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,english,3,rj
+32,no signs,no signs 1,NA,NA,freezer,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,9,NA,latinx,english,1,le
+32,no signs,no signs 1,NA,NA,bread,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,8,NA,latinx,english,1,yc
+32,no signs,no signs 1,NA,NA,produce,child,6-15,positive,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,6,NA,latinx,english,4,as
+232,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,m,NA,NA,4,NA,latinx,spanish,4,rj
+232,no signs,no signs 1,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,NA,NA,NA,NA,4,NA,latinx,english,1,le
+33,no signs,no signs 1,NA,NA,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,m,NA,NA,4,NA,latinx,spanish,2,yc
+33,no signs,no signs 1,NA,NA,produce,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,m,NA,NA,2,4,latinx,NA,NA,as
+34,no signs,no signs 1,NA,NA,produce,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,f,m,m,NA,NA,NA,white,NA,4,as
+34,no signs,no signs 1,NA,NA,produce,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,10,NA,latinx,spanish,3,as
+35,no signs,no signs 1,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,5,NA,white,english,NA,as
+36,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,2,f,m,NA,NA,10,NA,latinx,spanish,3,rj
+36,no signs,no signs 1,NA,NA,freezer,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,8,NA,latinx,spanish,NA,le
+36,no signs,no signs 1,NA,NA,bread,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,latinx,spanish,2,yc
+36,no signs,no signs 1,NA,NA,produce,NA,6-15,positive,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,latinx,english and spanish,NA,as
+37,no signs,no signs 1,NA,NA,dry goods,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,f,NA,NA,8,NA,latinx,spanish,2,rj
+38,no signs,no signs 1,NA,NA,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,f,NA,NA,5,NA,latinx,spanish,3,as
+39,no signs,no signs 1,NA,NA,dry goods,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,9,NA,latinx,english,2,rj
+39,no signs,no signs 1,NA,NA,freezer,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,english,2,le
+39,no signs,no signs 1,NA,NA,bread,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,10,NA,black,english,1,yc
+40,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,3,rj
+40,no signs,no signs 1,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,1,le
+40,no signs,no signs 1,NA,NA,bread,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,2,yc
+40,no signs,no signs 1,NA,NA,produce,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,NA,NA,latinx,NA,2,as
+41,no signs,no signs 1,NA,NA,produce,child,16+,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,2,m,m,NA,NA,2,5,latinx,spanish,2,as
+42,no signs,no signs 1,NA,NA,dry goods,parent,0-5,other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,6,NA,white,english,2,rj
+42,no signs,no signs 1,NA,NA,freezer,child,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,7,NA,white,english,2,le
+42,no signs,no signs 1,NA,NA,produce,parent,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,4,NA,white,english,2,as
+43,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,2,rj
+43,no signs,no signs 1,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,NA,f,NA,NA,NA,NA,NA,latinx,NA,2,le
+43,no signs,no signs 1,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,4,NA,latinx,spanish,2,yc
+43,no signs,no signs 1,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,3,as
+44,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,7,NA,latinx,spanish,2,rj
+44,no signs,no signs 1,NA,NA,freezer,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,7,NA,latinx,english and spanish,1,le
+44,no signs,no signs 1,NA,NA,bread,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,6,NA,latinx,spanish,1,yc
+44,no signs,no signs 1,NA,NA,produce,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,NA,NA,latinx,spanish,3,as
+45,no signs,no signs 1,NA,NA,dry goods,parent,0-5,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,7,NA,multiracial,english,4,rj
+45,no signs,no signs 1,NA,NA,bread,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,8,NA,black,english,2,yc
+45,no signs,no signs 1,NA,NA,produce,parent,0-5,other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,multiracial,english,3,as
+45,no signs,no signs 1,NA,NA,freezer,child,6-15,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,f,NA,NA,1,m,NA,NA,NA,7,NA,multiracial,english,NA,le
+46,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,2,f,f,NA,NA,9,NA,latinx,english,2,rj
+46,no signs,no signs 1,NA,NA,freezer,child,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,2,f,f,NA,NA,8,NA,latinx,english and spanish,2,le
+46,no signs,no signs 1,NA,NA,bread,child,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,2,f,f,NA,NA,7,NA,latinx,spanish,1,yc
+46,no signs,no signs 1,NA,NA,produce,child,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,2,f,f,NA,NA,7,1,latinx,english and spanish,3,as
+47,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,f,NA,NA,4,NA,white,english,2,rj
+47,no signs,no signs 1,NA,NA,freezer,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,5,NA,white,english,2,le
+47,no signs,no signs 1,NA,NA,bread,volunteer,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,2,m,f,NA,NA,4,NA,latinx,spanish,2,yc
+47,no signs,no signs 1,NA,NA,produce,child,6-15,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,f,NA,NA,3,6,latinx,spanish,2,as
+48,no signs,no signs 1,NA,NA,freezer,child,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,3,NA,asian,english,2,le
+48,no signs,no signs 1,NA,NA,bread,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,4,NA,asian,english,2,yc
+48,no signs,no signs 1,NA,NA,produce,child,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,3,NA,asian,english,3,as
+50,no signs,no signs 1,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,5,NA,asian,english,2,rj
+51,up,signs up 2,academically relevant,number,freezer,volunteer,16+,very positive,0,1,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,english,2,as
+51,up,signs up 2,academically relevant,colors & shapes,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,english and spanish,2,af
+51,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,english and spanish,4,yc
+52,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,NA,NA,NA,3,NA,latinx,spanish,1,sp
+52,up,signs up 2,academically relevant,number,freezer,volunteer,0-5,positive,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,2,f,m,NA,NA,2,m,NA,NA,NA,2,NA,latinx,spanish,1,as
+52,up,signs up 2,academically relevant,colors & shapes,bread,child,0-5,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,f,NA,NA,NA,NA,latinx,spanish,2,af
+52,up,signs up 2,non-academically relevant,one word answers,produce,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,NA,NA,NA,3,NA,latinx,NA,2,yc
+53,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,1,0,0,0,1,1,1,0,0,1,1,0,2,0,0,0,0,0,0,0,2,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,9,NA,latinx,english,1,as
+54,up,signs up 2,academically relevant,colors & shapes,bread,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,NA,NA,NA,NA,1,af
+55,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,1,NA,NA,NA,NA,3,NA,latinx,NA,1,sp
+56,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,2,NA,NA,NA,NA,4,7,latinx,english,3,sp
+56,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,NA,NA,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,2,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,4,NA,latinx,spanish,3,yc
+57,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,2,f,NA,NA,NA,8,NA,latinx,spanish,2,sp
+57,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,NA,0,1,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,2,NA,NA,NA,NA,8,NA,latinx,english,3,as
+57,up,signs up 2,academically relevant,colors & shapes,bread,parent,6-15,neutral,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,7,3,NA,spanish,2,af
+57,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,6-15,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,2,f,NA,NA,NA,6,NA,latinx,english and spanish,2,yc
+58,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,black,english,2,sp
+58,up,signs up 2,non-academically relevant,one word answers,produce,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,2,NA,black,english,2,yc
+58,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,3,1,black,english,NA,af
+59,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,white,english,2,sp
+59,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,positive,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA,1,f,NA,NA,NA,4,NA,white,english,2,as
+59,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,6-15,neutral,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,0,1,2,2,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,white,english,1,af
+59,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,6-15,neutral,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,white,english,3,yc
+60,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,9,NA,latinx,NA,2,sp
+60,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,1,0,0,0,1,1,1,0,0,1,1,0,2,0,0,0,0,0,0,0,2,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,10,NA,latinx,english,2,as
+60,up,signs up 2,academically relevant,colors & shapes,bread,child,6-15,neutral,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,3,3,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,8,NA,latinx,english,2,af
+60,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,f,m,NA,NA,1,m,NA,NA,NA,8,NA,latinx,english and spanish,2,yc
+61,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,1,0,0,0,1,1,1,0,0,1,0,1,2,0,0,0,0,0,0,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,english and spanish,2,as
+61,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,6-15,neutral,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,2,2,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,english and spanish,2,af
+61,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,6-15,neutral,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,f,NA,NA,NA,1,f,NA,NA,NA,9,NA,latinx,english and spanish,1,yc
+62,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,NA,NA,latinx,english,3,sp
+62,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,3,NA,latinx,english and spanish,2,yc
+63,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,NA,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,2,NA,NA,NA,NA,9,NA,latinx,english,2,sp
+63,up,signs up 2,academically relevant,number,freezer,volunteer,16+,very positive,0,1,0,0,0,1,1,1,0,1,1,1,0,3,0,0,0,0,0,0,0,3,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,8,NA,latinx,english,2,as
+63,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,6-15,neutral,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,3,3,0,0,0,1,f,NA,NA,NA,2,m,f,NA,NA,8,NA,latinx,english,2,af
+63,up,signs up 2,non-academically relevant,one word answers,produce,child,16+,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,NA,NA,latinx,english and spanish,4,yc
+64,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,8,NA,latinx,english and spanish,2,sp
+64,up,signs up 2,non-academically relevant,one word answers,produce,volunteer and parent,6-15,neutral,0,0,0,0,0,1,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,2,0,1,0,2,f,f,NA,NA,1,m,NA,NA,NA,NA,NA,latinx,spanish,4,yc
+65,up,signs up 2,non-academically relevant,pronouncements,dry goods,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,2,f,NA,NA,NA,8,NA,latinx,english,2,sp
+65,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,3,f,NA,NA,NA,NA,NA,latinx,spanish,2,as
+65,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,0-5,neutral,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,6,NA,NA,NA,1,af
+65,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,2,f,m,NA,NA,1,f,NA,NA,NA,6,NA,latinx,english,3,yc
+66,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,1,NA,NA,NA,NA,6,NA,white,english,1,sp
+66,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,positive,0,1,0,0,0,1,1,1,0,0,1,1,0,2,0,0,0,0,0,0,0,2,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,6,NA,white,english,2,as
+66,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,6-15,neutral,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,1,0,1,2,2,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,6,NA,white,english,1,af
+66,up,signs up 2,non-academically relevant,one word answers,produce,parent,6-15,neutral,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,f,m,NA,NA,1,m,NA,NA,NA,4,NA,white,english,3,yc
+67,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,8,"12,3 (?)",latinx,spanish,2,sp
+67,up,signs up 2,academically relevant,colors & shapes,bread,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,m,m,NA,8,"6,3",NA,NA,NA,af
+68,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,NA,1,sp
+68,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,1,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,english,3,as
+69,up,signs up 2,academically relevant,number,freezer,volunteer,16+,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,NA,m,NA,NA,NA,NA,NA,latinx,spanish,1,as
+69,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,NA,NA,latinx,english,1,sp
+70,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,6-15,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,8,NA,latinx,english,1,sp
+70,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,positive,0,1,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,9,NA,NA,NA,2,as
+70,up,signs up 2,academically relevant,colors & shapes,bread,volunteer and child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,8,NA,NA,english,2,af
+70,up,signs up 2,non-academically relevant,one word answers,produce,child,16+,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,latinx,english,5,yc
+71,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,2,f,NA,NA,NA,6,NA,white,english,1,sp
+71,up,signs up 2,academically relevant,number,freezer,volunteer,NA,NA,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,white,english,1,as
+71,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,6-15,neutral,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,6,NA,white,english,2,af
+72,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,8,NA,latinx,NA,2,sp
+73,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,positive,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,7,NA,latinx,english,1,as
+74,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,NA,NA,NA,NA,3,8,latinx,spanish,1,sp
+74,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,6-15,neutral,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,3,8,latinx,english,1,af
+74,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,5,NA,latinx,spanish,2,yc
+75,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,3,NA,latinx,NA,2,sp
+75,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,0-5,neutral,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,f,NA,NA,NA,1,m,NA,NA,NA,4,NA,latinx,english,2,yc
+76,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,white,english,1,sp
+76,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,1,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,white,english,2,as
+76,up,signs up 2,academically relevant,colors & shapes,bread,parent,6-15,neutral,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1,3,3,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,white,english,2,af
+77,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,1,NA,NA,NA,NA,5,NA,latinx,english,2,sp
+77,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,6-15,neutral,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,1,1,0,1,2,2,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,english,1,af
+77,up,signs up 2,non-academically relevant,one word answers,produce,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,spanish,3,yc
+78,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,3,NA,NA,NA,NA,6,"11, 8",latinx,spanish,2,sp
+78,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,positive,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,m,NA,NA,NA,3,m,NA,NA,NA,3,NA,latinx,spanish,2,as
+78,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,6-15,neutral,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,1,1,2,2,0,0,0,1,m,NA,NA,NA,3,m,f,m,NA,8,"6,4",latinx,english and spanish,2,af
+78,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,m,NA,NA,NA,3,m,NA,NA,NA,6,NA,latinx,english and spanish,5,yc
+79,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,16+,neutral,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,5,8,latinx,spanish,2,af
+79,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,6-15,neutral,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,f,NA,NA,NA,2,f,NA,NA,NA,4,NA,latinx,english and spanish,2,yc
+80,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,f,NA,NA,NA,7,"3,6,7",latinx,spanish,1,sp
+80,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,1,0,0,0,1,1,0,0,0,1,1,0,2,0,0,0,0,0,0,0,2,0,0,0,1,f,NA,NA,NA,3,f,NA,NA,NA,5,NA,latinx,english,2,as
+81,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,3,NA,black,english,2,sp
+81,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,1,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,2,f,f,NA,NA,7,NA,black,english,2,as
+82,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,1,sp
+82,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,0-5,neutral,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,4,NA,latinx,spanish,1,af
+83,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,1,NA,NA,NA,NA,3,NA,latinx,spanish,2,sp
+83,up,signs up 2,academically relevant,colors & shapes,bread,parent,0-5,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,4,NA,latinx,spanish,1,af
+84,up,signs up 2,non-academically relevant,one word answers,produce,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,2,f,NA,NA,NA,4,NA,latinx,english,4,yc
+85,up,signs up 2,academically relevant,number,freezer,volunteer,16+,very positive,1,1,0,0,0,1,1,1,0,0,1,1,0,2,0,0,0,0,0,0,0,2,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,7,NA,latinx,english,2,as
+87,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,black,english,3,sp
+87,up,signs up 2,academically relevant,colors & shapes,bread,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,2,f,m,NA,NA,6,2,black,english,2,af
+88,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,0,0,0,0,1,1,1,0,1,1,1,0,3,0,0,0,0,0,0,0,3,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,10,NA,latinx,spanish,2,as
+89,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,1,0,0,0,1,1,1,0,0,1,0,1,2,0,0,0,0,0,0,0,2,0,0,0,1,NA,NA,NA,NA,2,f,NA,NA,NA,10,NA,latinx,english,2,as
+90,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,1,NA,NA,NA,NA,7,NA,black,english,3,sp
+90,up,signs up 2,academically relevant,number,freezer,volunteer,16+,very positive,0,1,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,7,NA,black,english,3,as
+90,up,signs up 2,academically relevant,colors & shapes,bread,parent,6-15,neutral,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,8,NA,black,english,2,af
+90,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,1,f,NA,NA,NA,6,NA,black,english,2,yc
+91,up,signs up 2,non-academically relevant,pronouncements,dry goods,parent,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,english and spanish,2,sp
+91,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,1,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,7,NA,latinx,english,2,as
+91,up,signs up 2,non-academically relevant,one word answers,produce,child,0-5,NA,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,english and spanish,2,yc
+92,up,signs up 2,academically relevant,colors & shapes,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,m,NA,NA,NA,7,NA,black,english,1,af
+93,up,signs up 2,academically relevant,number,freezer,volunteer,16+,very positive,0,1,0,0,0,1,1,1,1,0,1,1,0,2,0,0,0,0,0,0,0,2,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,9,NA,latinx,english and spanish,2,as
+93,up,signs up 2,academically relevant,colors & shapes,bread,child,6-15,neutral,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,3,3,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,7,NA,latinx,english and spanish,2,af
+94,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,9,NA,white,english,4,sp
+94,up,signs up 2,academically relevant,number,freezer,volunteer,6-15,very positive,0,0,0,0,0,1,1,1,0,0,1,1,0,2,0,0,0,0,0,0,0,2,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,7,NA,white,english,2,as
+94,up,signs up 2,academically relevant,colors & shapes,bread,child,6-15,neutral,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,1,1,1,1,3,3,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,7,NA,white,english,2,af
+94,up,signs up 2,non-academically relevant,one word answers,produce,child,6-15,neutral,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,NA,NA,NA,NA,3,m,NA,NA,NA,5,NA,white,english,3,yc
+95,up,signs up 2,non-academically relevant,pronouncements,dry goods,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,6,NA,asian,english,2,sp
+95,up,signs up 2,academically relevant,colors & shapes,bread,volunteer,0-5,negative,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,m,NA,NA,6,7,asian,NA,2,af
+95,up,signs up 2,non-academically relevant,one word answers,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,2,m,NA,NA,NA,7,NA,asian,english,2,yc
+96,up,signs up 3,academically relevant,colors & shapes,produce,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,latinx,english and spanish,4,yc
+97,up,signs up 3,non-academically relevant,one word answers,dry goods,NA,NA,NA,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,f,f,NA,NA,1,f,NA,NA,NA,4,NA,latinx,english and spanish,2,as
+97,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,6-15,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,4,NA,latinx,spanish,1,sh
+97,up,signs up 3,academically relevant,number,bread,volunteer,16+,positive,0,0,0,0,0,1,1,0,1,0,1,0,1,2,0,0,0,0,0,1,1,3,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,spanish,3,le
+97,up,signs up 3,academically relevant,colors & shapes,produce,child,6-15,neutral,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,2,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,4,NA,NA,NA,1,yc
+98,up,signs up 3,non-academically relevant,one word answers,dry goods,parent,6-15,very positive,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,english,2,as
+98,up,signs up 3,academically relevant,number,bread,volunteer,16+,very positive,0,0,0,0,0,0,1,1,1,1,1,0,1,3,0,0,0,0,0,0,0,3,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,spanish,2,le
+98,up,signs up 3,academically relevant,colors & shapes,produce,parent,16+,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,0,2,3,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,english and spanish,4,yc
+99,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,3,f,NA,NA,NA,10,NA,latinx,english,3,as
+99,up,signs up 3,academically relevant,number,bread,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,f,NA,NA,NA,NA,NA,latinx,spanish,2,le
+99,up,signs up 3,academically relevant,colors & shapes,produce,child,6-15,NA,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,2,0,0,0,1,f,NA,NA,NA,3,f,NA,NA,NA,8,NA,latinx,english and spanish,4,yc
+99,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,1,f,NA,NA,NA,NA,NA,NA,NA,NA,sh
+100,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,sh
+101,up,signs up 3,academically relevant,number,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,NA,NA,NA,3,f,NA,NA,NA,8,NA,latinx,NA,2,le
+101,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,6-15,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,5,NA,latinx,spanish,1,sh
+101,up,signs up 3,academically relevant,colors & shapes,produce,child,16+,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,3,f,NA,NA,NA,7,NA,latinx,english and spanish,3,yc
+102,up,signs up 3,non-academically relevant,one word answers,dry goods,NA,NA,NA,1,1,1,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,english,2,as
+103,up,signs up 3,non-academically relevant,one word answers,dry goods,child,16+,very positive,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,NA,NA,NA,NA,2,f,NA,NA,NA,5,NA,white,english,4,as
+103,up,signs up 3,academically relevant,number,bread,volunteer,16+,very positive,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,7,NA,white,english,2,le
+104,up,signs up 3,non-academically relevant,one word answers,dry goods,child,16+,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,3,f,NA,NA,NA,8,NA,latinx,spanish,NA,as
+105,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,16+,positive,1,1,0,0,0,1,1,1,0,0,1,1,0,2,0,0,0,0,0,0,0,2,1,1,0,2,f,m,NA,NA,1,f,NA,NA,NA,6,NA,latinx,english,3,as
+105,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,6-15,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,NA,f,NA,NA,NA,10,NA,latinx,spanish,2,sh
+105,up,signs up 3,academically relevant,number,bread,volunteer,16+,positive,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,6,NA,latinx,spanish,2,le
+105,up,signs up 3,academically relevant,colors & shapes,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,6,NA,latinx,english and spanish,2,yc
+106,up,signs up 3,non-academically relevant,one word answers,dry goods,NA,16+,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,3,m,NA,NA,NA,4,NA,white,english,2,as
+106,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,10,NA,white,english,1,sh
+106,up,signs up 3,academically relevant,colors & shapes,produce,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,f,m,m,NA,2,m,NA,NA,NA,5,NA,white,english,2,yc
+107,up,signs up 3,non-academically relevant,one word answers,dry goods,NA,NA,NA,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,3,NA,black,english,3,as
+107,up,signs up 3,academically relevant,number,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,3,NA,black,english,2,le
+107,up,signs up 3,academically relevant,colors & shapes,produce,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,3,NA,black,NA,1,yc
+108,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,2,m,NA,NA,NA,6,8,latinx,spanish,2,as
+108,up,signs up 3,academically relevant,number,bread,volunteer,6-15,positive,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,6,NA,latinx,spanish,2,le
+108,up,signs up 3,academically relevant,colors & shapes,produce,volunteer,6-15,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,1,NA,NA,NA,NA,3,f,NA,NA,NA,6,NA,latinx,english and spanish,5,yc
+109,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,negative,1,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,as
+110,up,signs up 3,non-academically relevant,one word answers,dry goods,child,6-15,positive,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,3,f,NA,NA,NA,NA,NA,white,english,4,as
+110,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,6-15,NA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,NA,m,NA,NA,NA,NA,NA,white,english,1,sh
+110,up,signs up 3,academically relevant,number,bread,volunteer,16+,positive,0,0,0,0,0,0,0,1,0,0,1,1,0,2,0,0,0,0,0,0,0,2,0,0,0,1,f,NA,NA,NA,3,f,NA,NA,NA,9,NA,white,english,2,le
+110,up,signs up 3,academically relevant,colors & shapes,produce,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,f,NA,NA,NA,3,f,NA,NA,NA,7,NA,white,english,1,yc
+111,up,signs up 3,academically relevant,number,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,6,NA,latinx,spanish,2,le
+111,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,6-15,neutral,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,latinx,spanish,NA,sh
+112,up,signs up 3,non-academically relevant,one word answers,dry goods,parent,6-15,positive,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,1,m,NA,NA,NA,5,NA,latinx,english and spanish,2,as
+112,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,positive,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,8,NA,NA,english,1,sh
+113,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,2,f,m,NA,NA,1,m,NA,NA,NA,5,NA,latinx,spanish,2,as
+113,up,signs up 3,academically relevant,colors & shapes,produce,child,NA,NA,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,2,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,6,NA,latinx,spanish,1,yc
+114,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,2,f,NA,NA,NA,5,NA,latinx,english and spanish,3,as
+114,up,signs up 3,academically relevant,number,bread,volunteer,16+,positive,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,f,NA,NA,NA,1,f,NA,NA,NA,8,12 (coded as adult),latinx,english,2,le
+114,up,signs up 3,academically relevant,colors & shapes,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,6,NA,latinx,english,4,yc
+114,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,6-15,positive,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,7,NA,latinx,NA,NA,sh
+115,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,1,f,NA,NA,NA,9,NA,latinx,english,2,as
+115,up,signs up 3,non-academically relevant,pronouncements,freezer,NA,16+,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,english,2,sh
+116,up,signs up 3,non-academically relevant,one word answers,dry goods,parent,16+,neutral,1,1,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,m,NA,NA,NA,1,m,NA,NA,NA,NA,NA,latinx,spanish,4,as
+116,up,signs up 3,academically relevant,number,bread,volunteer,6-15,positive,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,f,m,NA,NA,NA,m,NA,NA,NA,9,NA,latinx,spanish,1,le
+116,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,positive,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,m,NA,NA,NA,8,NA,NA,english,1,sh
+117,up,signs up 3,non-academically relevant,one word answers,dry goods,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,NA,1,as
+117,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,latinx,spanish,1,sh
+117,up,signs up 3,academically relevant,number,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,spanish,1,le
+117,up,signs up 3,academically relevant,colors & shapes,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,NA,yc
+118,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,2,f,NA,NA,NA,10,NA,latinx,english,2,as
+118,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,positive,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,NA,NA,NA,1,sh
+118,up,signs up 3,academically relevant,colors & shapes,produce,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,3,NA,latinx,english and spanish,2,yc
+119,up,signs up 3,non-academically relevant,one word answers,dry goods,child,6-15,positive,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,f,m,NA,NA,2,m,NA,NA,NA,4,NA,latinx,spanish,3,as
+119,up,signs up 3,non-academically relevant,pronouncements,freezer,NA,0-5,NA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,3,m,NA,NA,NA,6,NA,latinx,spanish,1,sh
+119,up,signs up 3,academically relevant,number,bread,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,NA,NA,NA,5,NA,latinx,spanish,2,le
+119,up,signs up 3,academically relevant,colors & shapes,produce,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,NA,NA,NA,4,NA,latinx,spanish,2,yc
+120,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,neutral,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,NA,NA,latinx,spanish,1,sh
+120,up,signs up 3,academically relevant,colors & shapes,produce,parent,0-5,other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,f,NA,NA,6,NA,latinx,spanish,4,yc
+121,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,0,0,0,0,0,1,1,1,0,0,1,0,1,2,0,0,0,0,0,0,0,2,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,5,NA,black,english,3,as
+122,up,signs up 3,non-academically relevant,one word answers,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,2,m,NA,NA,NA,5,NA,latinx,spanish,1,as
+122,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,5,NA,latinx,spanish,NA,sh
+122,up,signs up 3,academically relevant,number,bread,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,5,NA,latinx,NA,NA,le
+123,up,signs up 3,non-academically relevant,pronouncements,freezer,NA,6-15,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,latinx,NA,NA,sh
+123,up,signs up 3,academically relevant,number,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,multiracial,english,1,le
+124,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,16+,very positive,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,f,f,NA,NA,2,NA,NA,NA,NA,NA,NA,latinx,spanish,2,as
+124,up,signs up 3,non-academically relevant,pronouncements,freezer,child,16+,positive,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,2,f,m,NA,NA,6,8,latinx,english and spanish,2,sh
+124,up,signs up 3,academically relevant,number,bread,sibling,16+,positive,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,f,f,NA,NA,2,f,NA,NA,NA,8,NA,latinx,spanish,1,le
+124,up,signs up 3,academically relevant,colors & shapes,produce,child,16+,positive,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,0,2,3,0,0,0,3,f,f,f,NA,2,f,NA,NA,NA,5,NA,latinx,spanish,4,yc
+125,up,signs up 3,academically relevant,number,bread,volunteer,16+,positive,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,7,NA,NA,spanish,1,le
+126,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,m,m,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,1,as
+126,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,latinx,spanish,NA,sh
+126,up,signs up 3,academically relevant,number,bread,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,spanish,1,le
+127,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,neutral,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,f,f,NA,NA,1,m,NA,NA,NA,5,NA,latinx,english,2,as
+127,up,signs up 3,academically relevant,number,bread,volunteer,16+,positive,0,0,0,0,0,1,1,0,0,1,1,0,1,3,0,0,0,0,0,0,0,3,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,NA,NA,latinx,english and spanish,2,le
+127,up,signs up 3,academically relevant,colors & shapes,produce,child,16+,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,6,NA,latinx,english,3,yc
+128,up,signs up 3,non-academically relevant,one word answers,dry goods,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,7,NA,latinx,spanish,2,as
+128,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,positive,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,9,NA,latinx,spanish,NA,sh
+129,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,f,NA,NA,NA,1,f,NA,NA,NA,9,NA,asian,english,2,as
+129,up,signs up 3,academically relevant,number,bread,volunteer,16+,positive,0,0,0,0,0,0,1,1,0,0,1,1,0,2,0,0,0,0,0,0,0,2,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,8,NA,NA,english,1,le
+129,up,signs up 3,academically relevant,colors & shapes,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,NA,NA,NA,english,2,yc
+129,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,positive,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,8,NA,asian,english,1,sh
+130,up,signs up 3,non-academically relevant,one word answers,dry goods,child,6-15,neutral,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,f,NA,NA,NA,4,NA,latinx,spanish,2,as
+131,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,16+,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,6,NA,latinx,spanish,2,sh
+131,up,signs up 3,academically relevant,number,bread,volunteer,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,spanish,2,le
+131,up,signs up 3,academically relevant,colors & shapes,produce,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,spanish,3,yc
+132,up,signs up 3,non-academically relevant,one word answers,dry goods,parent,16+,NA,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,1,f,NA,NA,NA,NA,NA,latinx,english and spanish,3,as
+132,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,8,NA,latinx,spanish,1,sh
+132,up,signs up 3,academically relevant,colors & shapes,produce,child,16+,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,spanish,2,yc
+133,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,3,white,english,3,as
+133,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,positive,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,8,NA,white,english,1,sh
+133,up,signs up 3,academically relevant,number,bread,volunteer,16+,positive,0,0,0,0,0,0,1,0,1,1,1,0,0,2,0,0,0,0,0,0,0,2,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,9,NA,white,english,3,le
+133,up,signs up 3,academically relevant,colors & shapes,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,7,NA,white,english,5,yc
+134,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,neutral,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,english,2,as
+134,up,signs up 3,non-academically relevant,pronouncements,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,1,sh
+134,up,signs up 3,academically relevant,number,bread,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,english,2,le
+134,up,signs up 3,academically relevant,colors & shapes,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,english,1,yc
+135,up,signs up 3,non-academically relevant,one word answers,dry goods,child,16+,other,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,1,f,NA,NA,NA,3,f,f,f,NA,9,NA,latinx,english,3,as
+135,up,signs up 3,academically relevant,number,bread,parent,16+,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,NA,NA,NA,NA,f,NA,NA,NA,9,NA,latinx,english and spanish,1,le
+135,up,signs up 3,academically relevant,colors & shapes,produce,volunteer and parent,16+,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,2,2,0,0,0,1,f,NA,NA,NA,4,f,NA,NA,NA,5,NA,latinx,spanish,4,yc
+136,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,1,1,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,2,f,f,NA,NA,1,f,NA,NA,NA,6,NA,asian,english,3,as
+136,up,signs up 3,non-academically relevant,pronouncements,freezer,child,6-15,positive,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,6,NA,multiracial,english,2,sh
+136,up,signs up 3,academically relevant,number,bread,child,16+,very positive,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,7,NA,latinx,english,2,le
+136,up,signs up 3,academically relevant,colors & shapes,produce,child,16+,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,5,NA,NA,english,5,yc
+137,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,3,f,NA,NA,NA,6,NA,latinx,english,3,as
+137,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer and child,6-15,positive,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,NA,NA,latinx,english,NA,sh
+137,up,signs up 3,academically relevant,number,bread,volunteer,6-15,positive,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,NA,NA,latinx,NA,NA,le
+138,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,3,f,NA,NA,NA,4,NA,latinx,english,3,as
+138,up,signs up 3,academically relevant,number,bread,NA,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,3,f,NA,NA,NA,6,10+,latinx,english,1,le
+138,up,signs up 3,academically relevant,colors & shapes,produce,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,1,f,NA,NA,NA,3,f,NA,NA,NA,5,NA,latinx,english and spanish,3,yc
+138,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,6-15,NA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,10,NA,latinx,spanish,NA,sh
+139,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,0-5,neutral,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,NA,NA,latinx,english,2,as
+140,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,4,NA,latinx,english,1,as
+140,up,signs up 3,non-academically relevant,pronouncements,freezer,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,latinx,spanish,1,sh
+140,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,0-5,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,sh
+140,up,signs up 3,academically relevant,number,bread,volunteer,6-15,positive,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,NA,2,le
+141,up,signs up 3,non-academically relevant,one word answers,dry goods,volunteer,6-15,positive,1,1,1,0,0,1,1,1,0,1,1,0,0,2,0,0,0,0,0,0,0,2,0,1,0,1,f,NA,NA,NA,3,f,NA,NA,NA,5,NA,latinx,spanish,3,as
+141,up,signs up 3,non-academically relevant,pronouncements,freezer,volunteer,6-15,positive,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,1,f,NA,NA,NA,7,NA,latinx,english and spanish,NA,sh
+142,no signs,no signs 2,NA,NA,dry goods,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,3,NA,latinx,spanish,2,yc
+142,no signs,no signs 2,NA,NA,freezer,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,3,NA,latinx,spanish,2,af
+142,no signs,no signs 2,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,NA,NA,latinx,spanish,1,sp
+142,no signs,no signs 2,NA,NA,produce,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,3,NA,latinx,NA,2,rj
+143,no signs,no signs 2,NA,NA,freezer,sibling,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,2,f,m,NA,NA,5,1,asian,english,3,af
+143,no signs,no signs 2,NA,NA,produce,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,7,NA,asian,english,2,rj
+144,no signs,no signs 2,NA,NA,dry goods,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,4,NA,latinx,spanish,2,yc
+144,no signs,no signs 2,NA,NA,freezer,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,5,NA,NA,NA,1,af
+144,no signs,no signs 2,NA,NA,produce,parent,6-15,positive,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,2,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,7,NA,latinx,english,3,rj
+144,no signs,no signs 2,NA,NA,bread,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,NA,NA,NA,NA,NA,sp
+145,no signs,no signs 2,NA,NA,dry goods,parent,6-15,NA,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,white,english,3,yc
+145,no signs,no signs 2,NA,NA,freezer,volunteer and parent,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,3,3,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,white,english,2,af
+145,no signs,no signs 2,NA,NA,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,NA,NA,white,english,1,sp
+145,no signs,no signs 2,NA,NA,produce,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,white,english,2,rj
+146,no signs,no signs 2,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,m,NA,NA,NA,NA,NA,black,english,3,yc
+146,no signs,no signs 2,NA,NA,freezer,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,m,NA,NA,NA,6,NA,black,english,2,af
+146,no signs,no signs 2,NA,NA,bread,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,m,NA,NA,NA,7,NA,black,english,1,sp
+146,no signs,no signs 2,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,m,NA,NA,NA,7,NA,black,english,2,rj
+147,no signs,no signs 2,NA,NA,dry goods,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,4,NA,latinx,spanish,2,yc
+147,no signs,no signs 2,NA,NA,bread,volunteer,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,2,f,NA,NA,NA,4,10,latinx,spanish,1,sp
+147,no signs,no signs 2,NA,NA,produce,volunteer,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,2,f,NA,NA,NA,5,NA,latinx,english and spanish,2,rj
+148,no signs,no signs 2,NA,NA,produce,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,3,f,NA,NA,NA,10,NA,latinx,english,2,rj
+149,no signs,no signs 2,NA,NA,dry goods,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,f,f,f,NA,1,f,NA,NA,NA,5,NA,latinx,english and spanish,1,yc
+149,no signs,no signs 2,NA,NA,freezer,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,f,f,f,NA,1,f,NA,NA,NA,6,NA,latinx,english,2,af
+150,no signs,no signs 2,NA,NA,dry goods,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,5,NA,latinx,spanish,3,yc
+150,no signs,no signs 2,NA,NA,freezer,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,10,5,latinx,spanish,1,af
+150,no signs,no signs 2,NA,NA,bread,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,7,12,latinx,english,2,sp
+150,no signs,no signs 2,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,NA,NA,NA,NA,6,NA,latinx,spanish,3,rj
+151,no signs,no signs 2,NA,NA,dry goods,volunteer and child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,4,f,NA,NA,NA,6,NA,latinx,english and spanish,3,yc
+151,no signs,no signs 2,NA,NA,freezer,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,f,m,NA,NA,8,"1,2",latinx,spanish,2,af
+151,no signs,no signs 2,NA,NA,produce,volunteer,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,5,NA,latinx,spanish,3,rj
+152,no signs,no signs 2,NA,NA,dry goods,parent,0-5,other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,f,NA,NA,NA,2,NA,latinx,spanish,2,yc
+152,no signs,no signs 2,NA,NA,freezer,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,f,m,NA,NA,2,1,latinx,english and spanish,2,NA
+152,no signs,no signs 2,NA,NA,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,f,m,NA,NA,2,NA,latinx,spanish,1,sp
+153,no signs,no signs 2,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,4,NA,latinx,spanish,1,sp
+153,no signs,no signs 2,NA,NA,dry goods,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,3,NA,latinx,spanish,1,yc
+153,no signs,no signs 2,NA,NA,freezer,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,NA,NA,NA,1,m,NA,NA,NA,3,NA,latinx,english,1,af
+154,no signs,no signs 2,NA,NA,dry goods,child,16+,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,9,NA,black,english,2,yc
+154,no signs,no signs 2,NA,NA,freezer,child,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,10,NA,black,english,2,af
+154,no signs,no signs 2,NA,NA,bread,parent,6-15,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,f,NA,NA,7,NA,black,other,NA,sp
+155,no signs,no signs 2,NA,NA,dry goods,volunteer,16+,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,7,NA,latinx,english and spanish,3,yc
+155,no signs,no signs 2,NA,NA,freezer,parent,16+,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,8,3,white,english,3,af
+155,no signs,no signs 2,NA,NA,produce,volunteer,6-15,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,8,NA,latinx,english and spanish,3,rj
+156,no signs,no signs 2,NA,NA,dry goods,child,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,4,NA,white,english,2,yc
+156,no signs,no signs 2,NA,NA,freezer,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,5,NA,NA,english,2,af
+156,no signs,no signs 2,NA,NA,produce,child,6-15,very positive,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,2,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,4,NA,white,english,4,rj
+157,no signs,no signs 2,NA,NA,dry goods,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,2,NA,white,NA,2,yc
+157,no signs,no signs 2,NA,NA,freezer,NA,6-15,other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,2,NA,NA,NA,2,af
+157,no signs,no signs 2,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,2,NA,white,english,1,sp
+158,no signs,no signs 2,NA,NA,freezer,NA,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,7,10,latinx,spanish,3,af
+158,no signs,no signs 2,NA,NA,produce,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,2,m,NA,NA,NA,6,NA,latinx,spanish,2,rj
+158,no signs,no signs 2,NA,NA,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,8,NA,latinx,spanish,NA,sp
+159,no signs,no signs 2,NA,NA,freezer,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,af
+159,no signs,no signs 2,NA,NA,produce,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,7,NA,latinx,english and spanish,2,rj
+160,no signs,no signs 2,NA,NA,dry goods,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,2,NA,latinx,english and spanish,4,yc
+160,no signs,no signs 2,NA,NA,freezer,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,1,NA,latinx,english,1,af
+160,no signs,no signs 2,NA,NA,bread,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,2,NA,latinx,NA,1,sp
+160,no signs,no signs 2,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,2,NA,latinx,english,2,rj
+161,no signs,no signs 2,NA,NA,freezer,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,7,NA,latinx,english,1,af
+161,no signs,no signs 2,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,NA,NA,latinx,english,1,sp
+161,no signs,no signs 2,NA,NA,produce,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,7,NA,latinx,english,2,rj
+162,no signs,no signs 2,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,10,NA,latinx,english and spanish,1,sp
+162,no signs,no signs 2,NA,NA,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,9,NA,latinx,english and spanish,2,rj
+164,no signs,no signs 2,NA,NA,dry goods,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,2,m,f,NA,NA,4,NA,latinx,spanish,4,yc
+164,no signs,no signs 2,NA,NA,freezer,volunteer and child,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,4,10,latinx,english,2,af
+164,no signs,no signs 2,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,NA,NA,latinx,english,1,sp
+164,no signs,no signs 2,NA,NA,produce,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,6,NA,latinx,english,3,rj
+165,no signs,no signs 2,NA,NA,dry goods,child,NA,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,m,NA,NA,NA,1,m,NA,NA,NA,8,NA,white,english,3,yc
+165,no signs,no signs 2,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,m,NA,NA,NA,10,NA,white,english,1,sp
+165,no signs,no signs 2,NA,NA,produce,child,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,rj
+166,no signs,no signs 2,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,5,9,NA,NA,1,af
+166,no signs,no signs 2,NA,NA,bread,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,5,NA,latinx,spanish,1,sp
+167,no signs,no signs 2,NA,NA,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,f,f,f,m,1,f,NA,NA,NA,7,NA,latinx,spanish,3,yc
+167,no signs,no signs 2,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,6,NA,latinx,NA,NA,af
+167,no signs,no signs 2,NA,NA,bread,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,NA,NA,latinx,spanish,1,sp
+167,no signs,no signs 2,NA,NA,produce,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,7,NA,latinx,spanish,3,rj
+168,no signs,no signs 2,NA,NA,dry goods,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,2,NA,latinx,spanish,3,yc
+168,no signs,no signs 2,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,2,NA,latinx,NA,2,af
+169,no signs,no signs 2,NA,NA,dry goods,child,16+,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,4,NA,asian,english,4,yc
+169,no signs,no signs 2,NA,NA,bread,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,3,NA,asian,english,1,sp
+169,no signs,no signs 2,NA,NA,produce,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,6,NA,asian,english,2,rj
+170,no signs,no signs 2,NA,NA,freezer,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,6,NA,latinx,NA,1,af
+170,no signs,no signs 2,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,7,NA,latinx,spanish,1,sp
+170,no signs,no signs 2,NA,NA,produce,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,6,NA,latinx,english and spanish,3,rj
+171,no signs,no signs 2,NA,NA,dry goods,child,16+,other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,8,NA,latinx,english,3,yc
+171,no signs,no signs 2,NA,NA,freezer,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,7,NA,white,english,2,af
+171,no signs,no signs 2,NA,NA,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,9,NA,latinx,spanish,2,sp
+171,no signs,no signs 2,NA,NA,produce,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,8,NA,white,english,2,rj
+172,no signs,no signs 2,NA,NA,dry goods,volunteer and child,16+,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,5,yc
+172,no signs,no signs 2,NA,NA,bread,child,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,NA,NA,sp
+172,no signs,no signs 2,NA,NA,produce,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,spanish,2,rj
+173,no signs,no signs 2,NA,NA,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,7,NA,black,english,2,yc
+173,no signs,no signs 2,NA,NA,freezer,child,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,2,f,NA,NA,NA,5,NA,black,english,1,af
+173,no signs,no signs 2,NA,NA,produce,volunteer,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,7,NA,black,english,1,rj
+173,no signs,no signs 2,NA,NA,bread,NA,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,2,NA,NA,NA,NA,6,NA,black,english,NA,sp
+174,no signs,no signs 2,NA,NA,freezer,parent,16+,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,2,m,f,NA,NA,3,7,latinx,english,2,af
+174,no signs,no signs 2,NA,NA,bread,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,NA,NA,NA,2,f,NA,NA,NA,9,NA,latinx,english,NA,sp
+174,no signs,no signs 2,NA,NA,produce,child,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,5,NA,latinx,english,1,rj
+175,no signs,no signs 2,NA,NA,dry goods,parent,0-5,other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,5,NA,black,english,2,yc
+175,no signs,no signs 2,NA,NA,freezer,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,6,8,black,english,2,NA
+175,no signs,no signs 2,NA,NA,bread,volunteer,6-15,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,6,8,black,english,1,sp
+175,no signs,no signs 2,NA,NA,produce,volunteer,16+,positive,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,7,NA,black,english,4,rj
+176,no signs,no signs 2,NA,NA,dry goods,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,3,NA,latinx,english and spanish,3,yc
+176,no signs,no signs 2,NA,NA,freezer,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,3,m,NA,NA,NA,4,NA,latinx,english,1,af
+176,no signs,no signs 2,NA,NA,bread,child,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,3,3,0,0,0,1,f,NA,NA,NA,3,NA,NA,NA,NA,6,NA,latinx,english and spanish,1,sp
+176,no signs,no signs 2,NA,NA,produce,volunteer,16+,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,4,NA,latinx,english,3,rj
+177,no signs,no signs 2,NA,NA,freezer,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,7,NA,NA,english,2,af
+177,no signs,no signs 2,NA,NA,produce,parent,16+,positive,0,0,0,0,0,0,0,0,0,1,1,1,0,3,0,0,0,0,0,0,0,3,0,0,1,1,f,NA,NA,NA,1,m,NA,NA,NA,7,NA,latinx,english and spanish,2,rj
+178,up,signs up 4,non-academically relevant,one word answers,freezer,child,6-15,positive,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,f,f,m,NA,1,f,NA,NA,NA,7,NA,latinx,english,3,ea
+178,up,signs up 4,non-academically relevant,pronouncements,bread,child,16+,very positive,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,7,NA,latinx,spanish,1,sh
+179,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,16+,neutral,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,2,2,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,4,NA,white,english,2,le
+179,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,6-15,positive,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,f,f,f,NA,1,m,NA,NA,NA,3,NA,white,english,2,ea
+179,up,signs up 4,non-academically relevant,pronouncements,bread,NA,6-15,positive,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,4,NA,NA,NA,2,sh
+179,up,signs up 4,academically relevant,number,produce,volunteer,0-5,neutral,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,3,NA,white,english,1,yc
+180,up,signs up 4,academically relevant,colors & shapes,dry goods,NA,16+,very positive,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,1,1,3,3,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,NA,3,le
+181,up,signs up 4,academically relevant,number,produce,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,7,6,asian,english,1,yc
+182,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,4,NA,latinx,spanish,3,le
+182,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,NA,NA,NA,NA,4,NA,white,english,1,ea
+182,up,signs up 4,non-academically relevant,pronouncements,bread,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,m,NA,NA,NA,NA,NA,NA,NA,NA,sh
+183,up,signs up 4,academically relevant,colors & shapes,dry goods,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,2,NA,latinx,NA,3,le
+183,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,NA,NA,NA,NA,2,NA,latinx,english,2,ea
+183,up,signs up 4,academically relevant,number,produce,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,2,NA,latinx,NA,1,yc
+184,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,NA,NA,NA,4,NA,NA,NA,1,le
+184,up,signs up 4,non-academically relevant,pronouncements,bread,child,0-5,positive,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,5,NA,latinx,spanish,1,sh
+185,up,signs up 4,non-academically relevant,pronouncements,bread,volunteer,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,NA,NA,black,english,2,sh
+185,up,signs up 4,academically relevant,number,produce,volunteer,16+,positive,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,1,0,0,0,0,1,3,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,NA,NA,black,english,3,yc
+186,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,NA,NA,NA,NA,5,NA,latinx,english,1,ea
+187,up,signs up 4,academically relevant,colors & shapes,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,6,NA,latinx,spanish,2,le
+187,up,signs up 4,non-academically relevant,pronouncements,bread,NA,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,sh
+188,up,signs up 4,academically relevant,colors & shapes,dry goods,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,NA,1,le
+188,up,signs up 4,non-academically relevant,pronouncements,bread,volunteer,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,asian,NA,NA,sh
+189,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,16+,very positive,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,1,1,1,3,3,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,NA,NA,latinx,english and spanish,4,le
+189,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,3,NA,latinx,spanish,2,ea
+189,up,signs up 4,academically relevant,number,produce,volunteer and parent,6-15,positive,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,2,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,4,8,latinx,english,4,yc
+189,up,signs up 4,non-academically relevant,pronouncements,bread,child,6-15,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,3,m,NA,NA,NA,8,NA,latinx,spanish,2,sh
+190,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,16+,positive,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,english,2,le
+190,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,6-15,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,2,NA,asian,english,2,ea
+190,up,signs up 4,academically relevant,number,produce,volunteer,6-15,positive,0,0,0,0,0,0,0,0,0,1,1,0,1,3,0,1,0,0,0,0,1,4,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,asian,english,1,yc
+191,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,16+,positive,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,2,2,0,0,0,2,f,NA,NA,NA,1,f,NA,NA,NA,9,NA,black,english,2,le
+191,up,signs up 4,non-academically relevant,one word answers,freezer,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,NA,NA,NA,NA,7,NA,black,english,1,ea
+192,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,16+,very positive,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,1,1,1,3,3,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,7,NA,latinx,NA,2,le
+192,up,signs up 4,academically relevant,number,produce,child,0-5,neutral,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,7,NA,latinx,spanish,1,yc
+193,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,2,le
+193,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,NA,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,english,1,ea
+193,up,signs up 4,non-academically relevant,pronouncements,bread,NA,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,NA,NA,latinx,spanish,NA,sh
+193,up,signs up 4,academically relevant,number,produce,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,1,yc
+194,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,3,NA,latinx,english,3,le
+194,up,signs up 4,academically relevant,number,produce,volunteer,16+,neutral,0,0,0,0,0,0,0,0,0,1,1,0,1,3,0,0,0,0,0,0,0,3,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,3,NA,latinx,spanish,3,yc
+194,up,signs up 4,non-academically relevant,pronouncements,bread,NA,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,4,NA,multiracial,english and spanish,1,sh
+195,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,NA,1,le
+195,up,signs up 4,non-academically relevant,pronouncements,bread,volunteer,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,sh
+196,up,signs up 4,academically relevant,colors & shapes,dry goods,parent,16+,very positive,0,0,0,0,0,0,1,1,1,1,1,0,0,2,1,1,0,1,1,0,2,4,0,0,0,2,f,NA,NA,NA,2,f,NA,NA,NA,7,NA,latinx,english,1,le
+196,up,signs up 4,non-academically relevant,one word answers,freezer,parent,0-5,positive,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,f,NA,NA,NA,1,f,NA,NA,NA,NA,NA,latinx,english,1,ea
+197,up,signs up 4,academically relevant,colors & shapes,dry goods,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,NA,NA,NA,NA,m,NA,NA,NA,4,NA,latinx,spanish,3,le
+197,up,signs up 4,non-academically relevant,one word answers,freezer,child,0-5,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,NA,NA,NA,NA,2,NA,latinx,spanish,2,ea
+197,up,signs up 4,non-academically relevant,pronouncements,bread,volunteer,0-5,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,5,NA,latinx,spanish,1,sh
+197,up,signs up 4,academically relevant,number,produce,child,0-5,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,4,NA,latinx,spanish,3,yc
+198,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,NA,NA,latinx,spanish,2,le
+198,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,5,NA,latinx,english,1,ea
+198,up,signs up 4,academically relevant,number,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,5,NA,latinx,spanish,1,yc
+199,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,16+,very positive,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,white,english,2,le
+199,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,f,f,m,NA,1,m,NA,NA,NA,NA,NA,white,english,1,ea
+199,up,signs up 4,academically relevant,number,produce,volunteer,6-15,positive,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,1,0,0,0,0,1,3,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,white,english,2,yc
+200,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,16+,neutral,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,2,2,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,7,NA,black,english,2,le
+200,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,6,NA,black,english,4,ea
+200,up,signs up 4,non-academically relevant,one word answers,freezer,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,2,10,NA,NA,NA,ea
+200,up,signs up 4,non-academically relevant,pronouncements,bread,child,6-15,positive,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,4,NA,asian,english,1,sh
+201,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,3,NA,black,english,2,le
+201,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,6-15,positive,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,f,f,m,NA,1,NA,NA,NA,NA,3,NA,black,english,2,ea
+201,up,signs up 4,non-academically relevant,pronouncements,bread,parent and child,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,2,3,black,english,1,sh
+201,up,signs up 4,academically relevant,number,produce,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,m,NA,NA,NA,1,f,NA,NA,NA,2,NA,black,english,1,yc
+202,up,signs up 4,academically relevant,colors & shapes,dry goods,parent,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,english,2,le
+202,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,neutral,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,NA,NA,NA,NA,2,NA,latinx,english,3,ea
+202,up,signs up 4,non-academically relevant,pronouncements,bread,volunteer,0-5,other,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,1,sh
+202,up,signs up 4,academically relevant,number,produce,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,english and spanish,4,yc
+203,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,16+,positive,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,1,1,3,3,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,5,NA,latinx,NA,2,le
+203,up,signs up 4,academically relevant,number,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,4,NA,latinx,english and spanish,1,yc
+204,up,signs up 4,academically relevant,number,produce,volunteer,6-15,neutral,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,f,m,NA,NA,NA,f,NA,NA,NA,9,NA,NA,english,1,yc
+204,up,signs up 4,non-academically relevant,pronouncements,bread,child,6-15,positive,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,NA,f,NA,NA,NA,9,NA,asian,english,2,sh
+204,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,6-15,positive,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,2,f,m,NA,NA,NA,NA,NA,NA,NA,8,NA,latinx,english and spanish,3,le
+204,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,positive,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,10,NA,latinx,english,1,ea
+206,up,signs up 4,non-academically relevant,pronouncements,bread,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,7,NA,NA,NA,1,sh
+207,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,2,NA,NA,NA,NA,3,2,latinx,english and spanish,4,ea
+207,up,signs up 4,academically relevant,number,produce,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,4,NA,latinx,spanish,3,yc
+208,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,0-5,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,NA,NA,NA,NA,2,m,NA,NA,NA,NA,NA,NA,english,3,le
+208,up,signs up 4,non-academically relevant,pronouncements,bread,volunteer,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,NA,m,NA,NA,NA,5,NA,asian,english,1,sh
+208,up,signs up 4,non-academically relevant,pronouncements,bread,NA,0-5,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,NA,NA,NA,NA,6,NA,latinx,spanish,1,sh
+209,up,signs up 4,non-academically relevant,pronouncements,bread,NA,16+,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,NA,NA,black,english,NA,sh
+210,up,signs up 4,non-academically relevant,pronouncements,bread,NA,6-15,positive,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,latinx,english and spanish,3,sh
+210,up,signs up 4,academically relevant,number,produce,volunteer and parent,16+,positive,0,0,0,0,0,0,0,0,0,1,1,0,1,3,0,0,0,0,0,0,0,3,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,6,NA,latinx,english,1,yc
+211,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer and parent,16+,positive,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,1,0,2,2,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,5,NA,white,english,3,le
+211,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,positive,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,NA,NA,1,ea
+211,up,signs up 4,academically relevant,number,produce,volunteer,6-15,positive,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,4,NA,white,english,1,yc
+211,up,signs up 4,non-academically relevant,pronouncements,bread,child,6-15,NA,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,6,NA,white,english,2,sh
+212,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,16+,positive,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,1,3,3,0,0,0,1,m,NA,NA,NA,1,m,NA,NA,NA,9,NA,latinx,spanish,3,le
+212,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,6-15,positive,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,f,m,NA,NA,1,m,NA,NA,NA,12,NA,latinx,english,2,ea
+213,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,english,2,le
+213,up,signs up 4,non-academically relevant,one word answers,freezer,volunteer,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,f,f,NA,NA,1,f,NA,NA,NA,2,NA,latinx,spanish,3,ea
+213,up,signs up 4,academically relevant,number,produce,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,latinx,spanish,2,yc
+213,up,signs up 4,non-academically relevant,pronouncements,bread,volunteer,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,6,NA,latinx,spanish,1,sh
+214,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,2,m,NA,NA,NA,8,NA,asian,english,1,le
+214,up,signs up 4,non-academically relevant,pronouncements,bread,volunteer,6-15,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,9,7,asian,english,1,sh
+215,up,signs up 4,academically relevant,colors & shapes,dry goods,child,16+,very positive,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,3,3,0,0,0,2,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,latinx,english and spanish,2,le
+215,up,signs up 4,non-academically relevant,one word answers,freezer,NA,6-15,positive,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,f,f,m,NA,1,f,NA,NA,NA,4,NA,latinx,english,3,ea
+215,up,signs up 4,non-academically relevant,pronouncements,bread,NA,6-15,positive,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,5,NA,latinx,spanish,1,sh
+216,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,NA,NA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,2,2,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,NA,NA,black,english,2,le
+216,up,signs up 4,non-academically relevant,one word answers,freezer,child,6-15,positive,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,f,NA,NA,NA,2,NA,NA,NA,NA,2,3,black,english,2,ea
+216,up,signs up 4,academically relevant,number,produce,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,5,NA,black,english,1,yc
+217,up,signs up 4,non-academically relevant,pronouncements,bread,volunteer,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,2,m,NA,NA,NA,2,NA,white,english and spanish,NA,sh
+218,up,signs up 4,non-academically relevant,pronouncements,bread,NA,0-5,neutral,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,m,NA,NA,NA,9,NA,asian,english,1,sh
+219,up,signs up 4,non-academically relevant,pronouncements,bread,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,latinx,spanish,NA,sh
+220,up,signs up 4,academically relevant,colors & shapes,dry goods,volunteer,16+,very positive,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,1,1,1,3,3,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,NA,english,4,le
+220,up,signs up 4,non-academically relevant,one word answers,freezer,child,6-15,positive,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,f,NA,NA,NA,1,NA,NA,NA,NA,4,NA,latinx,english,2,ea
+220,up,signs up 4,academically relevant,number,produce,volunteer,16+,neutral,0,0,0,0,0,0,0,0,0,1,1,0,1,3,0,0,0,0,0,0,0,3,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,6,NA,NA,english,4,yc
+220,up,signs up 4,non-academically relevant,pronouncements,bread,NA,16+,positive,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,4,NA,asian,english,NA,sh

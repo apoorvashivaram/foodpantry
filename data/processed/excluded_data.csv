@@ -1,0 +1,30 @@
+subject_number,signs_condition,signs_up,aisle,signs,conv_initiate,turns,valence,product_points,product_names,product_asks_q,product_describes_features,product_puts_in_cart,reference_points,reference_q1,reference_q2,reference_elaborates,number_uses_number,number_elicits_number,number_counts_no_point,number_counts_with_point,color_points,color_uses_word,color_elicits_word,shape_points,shape_uses_word,shape_elicits_word,one_word_gives_answer,one_word_elicits,one_word_elaborates,number_adults,adult1gender,adult2gender,adult3gender,adult4gender,number_children,child1gender,child2gender,child3gender,child4gender,target_child_age,other_children_ages,re,language_spoken,observ_length,coder
+5,no signs,no signs 1,dry goods,NA,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,1,NA,black,english,1,rj
+5,no signs,no signs 1,produce,NA,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,1,NA,black,english,2,as
+5,no signs,no signs 1,freezer,NA,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,2,NA,black,english,1,le
+5,no signs,no signs 1,bread,NA,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,3,NA,black,english,2,yc
+19,no signs,no signs 1,dry goods,NA,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,1,NA,black,english,4,rj
+19,no signs,no signs 1,freezer,NA,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,f,NA,NA,NA,2,NA,black,english,2,le
+19,no signs,no signs 1,bread,NA,volunteer,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,1,NA,black,english,3,yc
+19,no signs,no signs 1,produce,NA,parent,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,1,f,NA,NA,NA,1,NA,black,NA,2,as
+26,no signs,no signs 1,freezer,NA,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,NA,english,1,le
+26,no signs,no signs 1,bread,NA,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,3,NA,NA,other,3,yc
+26,no signs,no signs 1,produce,NA,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,1,f,NA,NA,NA,1.5,NA,asian,other,3,as
+27,no signs,no signs 1,produce,NA,NA,0-5,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,m,f,NA,NA,1,f,NA,NA,NA,1,NA,black,english,NA,as
+29,no signs,no signs 1,produce,NA,parent,0-5,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,f,f,f,NA,2,m,f,NA,NA,1,NA,asian,english,NA,as
+49,no signs,no signs 1,dry goods,NA,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,3,f,f,m,NA,8,NA,latinx,spanish,4,rj
+49,no signs,no signs 1,freezer,NA,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,NA,NA,NA,NA,7,NA,NA,english,2,le
+49,no signs,no signs 1,bread,NA,NA,0-5,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,f,NA,NA,4,NA,NA,other,5,yc
+49,no signs,no signs 1,produce,NA,child,16+,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,3,6,asian,other,3,as
+56,up,signs up 2,freezer,number,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,f,NA,NA,NA,1,m,NA,NA,NA,3,NA,latinx,english and spanish,NA,as
+86,up,signs up 2,freezer,number,volunteer,6-15,very positive,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,f,NA,NA,NA,6,NA,latinx,english,2,as
+86,up,signs up 2,bread,colors & shapes,volunteer and parent,16+,neutral,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,f,NA,NA,NA,2,f,m,NA,NA,8,1,NA,english,1,af
+86,up,signs up 2,produce,one word answers,volunteer,NA,neutral,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,f,NA,NA,NA,2,f,NA,NA,NA,10,NA,latinx,english and spanish,4,yc
+86,up,signs up 2,dry goods,pronouncements,parent,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,2,m,f,NA,NA,1,11,latinx,english,2,sp
+163,no signs,no signs 2,dry goods,NA,child,6-15,neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,4,NA,white,english,2,yc
+163,no signs,no signs 2,freezer,NA,NA,16+,positive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,f,NA,NA,1,m,NA,NA,NA,6,NA,white,english,2,af
+163,no signs,no signs 2,bread,NA,parent,0-5,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,7,NA,white,english,1,sp
+163,no signs,no signs 2,produce,NA,parent,0-5,very negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,f,NA,NA,NA,2,m,NA,NA,NA,6,NA,white,english,2,rj
+205,up,signs up 4,dry goods,colors & shapes,NA,0-5,negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,f,m,NA,NA,3,NA,latinx,NA,2,le
+205,up,signs up 4,bread,pronouncements,volunteer,6-15,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,f,m,NA,NA,5,NA,white,english,2,sh
+205,up,signs up 4,produce,number,NA,0-5,very negative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,f,m,NA,NA,2,m,NA,NA,NA,2,NA,latinx,english,1,yc
