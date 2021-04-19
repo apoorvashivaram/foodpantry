@@ -20,7 +20,6 @@
 # RStudio files
 .Rproj.user/
 Manuscript Analysis.Rproj
-foodpantry.Rproj
 
 # produced vignettes
 vignettes/*.html
