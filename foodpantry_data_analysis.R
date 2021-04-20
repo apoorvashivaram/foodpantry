@@ -435,6 +435,8 @@ foodpantry %>%
     fun = mean,
     geom = "point",
     color = "red",
+    shape = 17, 
+    size = 2,
     position = position_nudge(x = .13, y = 0)
     ) +
   stat_summary(
@@ -492,6 +494,8 @@ foodpantry %>%
     fun = mean,
     geom = "point",
     color = "red",
+    shape = 17, 
+    size = 2,
     position = position_nudge(x = .2, y = 0)
     ) +
   stat_summary(
