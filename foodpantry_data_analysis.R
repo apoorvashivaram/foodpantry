@@ -427,19 +427,21 @@ foodpantry %>%
     alpha = .5
     ) +
   geom_point(
-    position = position_jitter(width = 0.05, height = 0.3, seed = 123),
+    position = position_jitter(width = 0.05, height = 0.3, seed = 1234),
     size = 1, 
     shape = 20
     ) +
   stat_summary(
     fun = mean,
     geom = "point",
+    color = "red",
     position = position_nudge(x = .13, y = 0)
     ) +
   stat_summary(
     fun.data = ~mean_se(., mult = 1.96),
     geom = "errorbar",
-    width = 0.05,      
+    width = 0.05,   
+    color = "red",
     position = position_nudge(x = .13, y = 0)
     ) +
   geom_segment(aes(x = 1.13, xend = 2.13, y = 2, yend = 2)) +
@@ -489,12 +491,14 @@ foodpantry %>%
   stat_summary(
     fun = mean,
     geom = "point",
+    color = "red",
     position = position_nudge(x = .2, y = 0)
     ) +
   stat_summary(
     fun.data = ~mean_se(., mult = 1.96),
     geom = "errorbar",
-    width = 0.05,      
+    width = 0.05,
+    color = "red",
     position = position_nudge(x = .2, y = 0)
     ) +
   geom_segment(
